@@ -3,6 +3,15 @@ MLOps_finalproject
 
 Final project for MLOps course.
 
+- Framework: Natural Language Processing
+
+Project Description
+------------
+
+- Model we intent to implement:
+- Data we are going to use:
+- How the chosen framework can be incorporated
+
 Project Organization
 ------------
 
